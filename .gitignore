@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+
+##add name of project to tell GitIgnore to not sync your proj
+test2.Rproj
